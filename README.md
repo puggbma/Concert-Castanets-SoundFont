@@ -8,5 +8,7 @@ d) An example of a score using the instrument in MuseScore 4.5.2, the .mp3 playb
 
 The documentation is in Spanish, German and English 
 
+The soundFonts, configuration and examples files and contained in the "Wiki" tab.
+
 The soundFont, documentation and score has been created by Maria P.Guerra García ( juli 2025)
 
