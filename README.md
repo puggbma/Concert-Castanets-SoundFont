@@ -10,9 +10,9 @@ The documentation is in Spanish, German and English
 
 The soundFonts, configuration and examples files are contained in the "Wiki" tab.
 
-The soundFont, documentation and score has been created by Maria P.Guerra García ( juli 2025)
+The soundFont, documentation, score templates and Castanets (voices) work have been created by Maria P.Guerra García ( juli 2025)
 
-Some scores examples of the use of the Concert Castanets-Kit:
+Some scores examples of the use of the Concert Castanets-Kit are:
 
 https://musescore.com/user/38961855/scores/25057228 (Una pandereta suena)
 https://musescore.com/user/38961855/scores/27021343  (El barberillo de Lavapiés)
