@@ -1,4 +1,4 @@
-Installation and use of the "Concert Castanets" SounFont (virtual instrument)  for MuseScore 4.5.2 and 4.6.0, til 4.6.3
+Installation and use of the "Concert Castanets" SounFont (virtual instrument)  for MuseScore 4.0.0  til 4.7.6 and Nightly development version 4.7.7 and 5.0.0 
 
 The delivered .zip file contains:
 a) all the files to produce the sound of the "Concert Castanets"
@@ -10,7 +10,7 @@ The documentation is in Spanish, German and English
 
 The soundFonts, configuration and examples files are contained in the "Wiki" tab.
 
-The soundFont, documentation, score templates and Castanets (voices) work have been created by Maria P.Guerra García ( juli 2025)
+The soundFont, documentation, score templates and Castanets (voices) work have been created by Maria Purificacion Guerra García ( juli 2025 bis september 2026)
 
 Some scores examples of the use of the Concert Castanets-Kit are:
 
@@ -51,6 +51,17 @@ The documentation is in Spanish, German and English
 The soundFont, documentation and score has been created by Maria P.Guerra García ( September 2026)
 
 Some score examples with 2 voices (high and low-pitched Castanets) 
+https://musescore.com/user/38961855/scores/38174576 (Una pandereta suena (2 voces)
+https://musescore.com/user/38961855/scores/38348153 (Gallito (2 voces)
 
-https://musescore.com/user/38961855/scores/38174576 (Una pandereta suena (2 voces) )
-https://musescore.com/user/38961855/scores/38348153 (Gallito (2 voices) ) 
+***** New version Ver_1.0: *******
+
+The names of the Castanets strokes (toques) used until now i.e. Cast_Links, Cast_Rechts etc. has been replaced with the standard names of the "toques", TA, PI, TIN, TAN in the files: my_Castantes_Ta_Pi_Tin_Tan_instruments.xml and Concert_Castanets_Kit_2026_TA_PI_TAN_TIN.drm
+This standard names appear also in the "Percussion Panel" for "the Concert Castanets" instrument.
+The following .zip files contain the necessary information to install and use the SoundFonts (high, mezzo and alto timbre)
+The .zip files can be downloaded from the "Wiki" tab.
+
+Concert_Castanets_Ver_1.0_espanol_2026.zip
+Concert_Castanets_Ver_1.0_english_2026.zip
+Concert_Castanets_Ver_1.0_deutsch_2026.zip
+
